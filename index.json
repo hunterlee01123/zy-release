@@ -1,0 +1,166 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-29T13:23:14.793077Z",
+  "games": {
+    "trickcal": {
+      "gameId": "trickcal",
+      "packageName": "com.epidgames.trickcalrevive",
+      "displayName": "Trickcal Revive",
+      "versionCode": 10670,
+      "patchId": "trickcal-10670-v10670-20261029-163003",
+      "dateDir": "261029",
+      "publishedAt": "2026-10-29T08:33:18.756587Z",
+      "fileCount": 4,
+      "rawBytes": 28053553,
+      "zip": {
+        "fileName": "trickcal-261029-v10670.zip",
+        "bytes": 22150505,
+        "sha256": "a1586bc0cbd8d133dede70197904c70c629ced33ecc1a9664fc2d747063566c4"
+      },
+      "parts": [
+        {
+          "fileName": "trickcal-261029-v10670.zip",
+          "bytes": 22150505,
+          "sha256": "a1586bc0cbd8d133dede70197904c70c629ced33ecc1a9664fc2d747063566c4",
+          "url": "https://github.com/hunterlee01123/zy-release/releases/download/patches-20261029/trickcal-261029-v10670.zip"
+        }
+      ],
+      "apk": {
+        "fileName": "Trickcal-10670.apks",
+        "kind": "apks",
+        "bytes": 146207107,
+        "sha256": "d5b444df2021f2e50df6fa118c8ce0279e17b4cf680074e543671da1d09426c3",
+        "parts": [
+          {
+            "fileName": "Trickcal-10670.apks.part01.bin",
+            "bytes": 99614720,
+            "sha256": "fa6345e2668377cbd554b20ac77a438404a0c7ea67c3cea771b375ae3e36eac8",
+            "url": "https://gitee.com/yol1/zy/releases/download/apk-trickcal-v10670/Trickcal-10670.apks.part01.bin"
+          },
+          {
+            "fileName": "Trickcal-10670.apks.part02.bin",
+            "bytes": 46592387,
+            "sha256": "796c77f1edbcf947c92fc76c99fed0fab59fd00ce99027c9157c739ccdcbac32",
+            "url": "https://gitee.com/yol1/zy/releases/download/apk-trickcal-v10670/Trickcal-10670.apks.part02.bin"
+          }
+        ],
+        "versionName": "10670",
+        "publishedAt": "2026-10-29T08:36:28.578137Z"
+      }
+    },
+    "lastorigin": {
+      "gameId": "lastorigin",
+      "packageName": "com.smartjoy.LastOrigin_C",
+      "displayName": "Last Origin",
+      "versionCode": 429,
+      "patchId": "lastorigin-2.6.21-v429-20261029-211944",
+      "dateDir": "261029",
+      "publishedAt": "2026-10-29T13:21:56.472876Z",
+      "fileCount": 2,
+      "rawBytes": 22188738,
+      "zip": {
+        "fileName": "lastorigin-261029-v429.zip",
+        "bytes": 8818616,
+        "sha256": "d3741779f6d2b929a992723c63272e05d6d43ee4a27cdbf3b5649c8243bc91c8"
+      },
+      "parts": [
+        {
+          "fileName": "lastorigin-261029-v429.zip",
+          "bytes": 8818616,
+          "sha256": "d3741779f6d2b929a992723c63272e05d6d43ee4a27cdbf3b5649c8243bc91c8",
+          "url": "https://github.com/hunterlee01123/zy-release/releases/download/patches-20261029/lastorigin-261029-v429.zip"
+        }
+      ],
+      "apk": {
+        "fileName": "LastOrigin-2.6.21.apk",
+        "kind": "apk",
+        "bytes": 141251892,
+        "sha256": "6fef826ebc8f3ec0462f9f3649984840ff48cab15c9344d1df28f5419f5d497c",
+        "parts": [
+          {
+            "fileName": "LastOrigin-2.6.21.apk.part01.bin",
+            "bytes": 99614720,
+            "sha256": "b1f2f17e0e6ef3bf56caca08490623717ccff801860613055e4df91bd501f743",
+            "url": "https://gitee.com/yol1/zy/releases/download/apk-lastorigin-v2.6.21/LastOrigin-2.6.21.apk.part01.bin"
+          },
+          {
+            "fileName": "LastOrigin-2.6.21.apk.part02.bin",
+            "bytes": 41637172,
+            "sha256": "3ced2d511e8cb729539da57e89cf1c8b6b0c3c860dd53a50f2b7a3163ec1dc43",
+            "url": "https://gitee.com/yol1/zy/releases/download/apk-lastorigin-v2.6.21/LastOrigin-2.6.21.apk.part02.bin"
+          }
+        ],
+        "versionName": "2.6.21",
+        "publishedAt": "2026-10-29T13:23:14.793077Z"
+      }
+    },
+    "mad": {
+      "gameId": "mad",
+      "packageName": "com.wemadeconnect.aos.makedrama.onestore",
+      "displayName": "Make Drama",
+      "versionCode": 36,
+      "patchId": "mad-1.7.3-v36-20260911-144148",
+      "dateDir": "260911",
+      "publishedAt": "2026-09-11T06:43:22.447112Z",
+      "fileCount": 1,
+      "rawBytes": 329898848,
+      "zip": {
+        "fileName": "mad-260911-v36.zip",
+        "bytes": 190807224,
+        "sha256": "273384a00ee0fdc1e0d963cc6cc8a3c3087380c79625af5c761a0c346aae8dd1"
+      },
+      "parts": [
+        {
+          "fileName": "mad-260911-v36.part01.bin",
+          "bytes": 99614720,
+          "sha256": "f06fc0683d4a34147793905d521d8c1139d676183f1676684274f0a8835f1b03",
+          "url": "https://gitee.com/yol1/zy/releases/download/mad-260911-v36/mad-260911-v36.part01.bin"
+        },
+        {
+          "fileName": "mad-260911-v36.part02.bin",
+          "bytes": 91192504,
+          "sha256": "d58a8c7f97559f4d926a1a51ff2094d5b6f3177955d66348818838a4697859ce",
+          "url": "https://gitee.com/yol1/zy/releases/download/mad-260911-v36/mad-260911-v36.part02.bin"
+        }
+      ],
+      "apk": {
+        "fileName": "mad-1.8.3.apks",
+        "kind": "apks",
+        "bytes": 145486757,
+        "sha256": "68c8a0344c1e06f62c9e0cac47d0a4b85add9bfd1c995d51d3c601b7e75d4c5e",
+        "parts": [
+          {
+            "fileName": "mad-1.8.3.apks.part01.bin",
+            "bytes": 99614720,
+            "sha256": "61e68161851e522840693aa2bcd488180275b2e39010dd0615b05db7b1d512fc",
+            "url": "https://gitee.com/yol1/zy/releases/download/apk-mad-v1.8.3/mad-1.8.3.apks.part01.bin"
+          },
+          {
+            "fileName": "mad-1.8.3.apks.part02.bin",
+            "bytes": 45872037,
+            "sha256": "010c79468e5c953f9fb9f21465bada20aade10797f6ce6fa60e850005df72dc6",
+            "url": "https://gitee.com/yol1/zy/releases/download/apk-mad-v1.8.3/mad-1.8.3.apks.part02.bin"
+          }
+        ],
+        "versionName": "1.8.3",
+        "publishedAt": "2026-09-22T15:51:21.338845Z"
+      }
+    }
+  },
+  "installer": {
+    "versionCode": 1790926330,
+    "versionName": "0.22.0-20261002.153210",
+    "fileName": "GameTranslationInstaller-0.22.0-20261002.153210-release.apk",
+    "bytes": 1353276,
+    "sha256": "23ee2c20c2d61e8757bad0d24ebe64f37ea6ce32b5ab6cdc86f3dc4338cec969",
+    "parts": [
+      {
+        "fileName": "GameTranslationInstaller-0.22.0-20261002.153210-release.apk.part01.bin",
+        "bytes": 1353276,
+        "sha256": "23ee2c20c2d61e8757bad0d24ebe64f37ea6ce32b5ab6cdc86f3dc4338cec969",
+        "url": "https://gitee.com/yol1/zy/releases/download/installer-v0.22.0-20261002.153210/GameTranslationInstaller-0.22.0-20261002.153210-release.apk.part01.bin"
+      }
+    ],
+    "publishedAt": "2026-10-02T07:47:39.464149Z"
+  }
+}
