@@ -35,13 +35,13 @@
             "fileName": "Trickcal-10670.apks.part01.bin",
             "bytes": 99614720,
             "sha256": "fa6345e2668377cbd554b20ac77a438404a0c7ea67c3cea771b375ae3e36eac8",
-            "url": "https://gitee.com/yol1/zy/releases/download/apk-trickcal-v10670/Trickcal-10670.apks.part01.bin"
+            "url": "https://github.com/hunterlee01123/zy-release/releases/download/assets-20261029/Trickcal-10670.apks.part01.bin"
           },
           {
             "fileName": "Trickcal-10670.apks.part02.bin",
             "bytes": 46592387,
             "sha256": "796c77f1edbcf947c92fc76c99fed0fab59fd00ce99027c9157c739ccdcbac32",
-            "url": "https://gitee.com/yol1/zy/releases/download/apk-trickcal-v10670/Trickcal-10670.apks.part02.bin"
+            "url": "https://github.com/hunterlee01123/zy-release/releases/download/assets-20261029/Trickcal-10670.apks.part02.bin"
           }
         ],
         "versionName": "10670",
@@ -81,13 +81,13 @@
             "fileName": "LastOrigin-2.6.21.apk.part01.bin",
             "bytes": 99614720,
             "sha256": "b1f2f17e0e6ef3bf56caca08490623717ccff801860613055e4df91bd501f743",
-            "url": "https://gitee.com/yol1/zy/releases/download/apk-lastorigin-v2.6.21/LastOrigin-2.6.21.apk.part01.bin"
+            "url": "https://github.com/hunterlee01123/zy-release/releases/download/assets-20261029/LastOrigin-2.6.21.apk.part01.bin"
           },
           {
             "fileName": "LastOrigin-2.6.21.apk.part02.bin",
             "bytes": 41637172,
             "sha256": "3ced2d511e8cb729539da57e89cf1c8b6b0c3c860dd53a50f2b7a3163ec1dc43",
-            "url": "https://gitee.com/yol1/zy/releases/download/apk-lastorigin-v2.6.21/LastOrigin-2.6.21.apk.part02.bin"
+            "url": "https://github.com/hunterlee01123/zy-release/releases/download/assets-20261029/LastOrigin-2.6.21.apk.part02.bin"
           }
         ],
         "versionName": "2.6.21",
@@ -158,7 +158,7 @@
         "fileName": "GameTranslationInstaller-0.22.0-20261002.153210-release.apk.part01.bin",
         "bytes": 1353276,
         "sha256": "23ee2c20c2d61e8757bad0d24ebe64f37ea6ce32b5ab6cdc86f3dc4338cec969",
-        "url": "https://gitee.com/yol1/zy/releases/download/installer-v0.22.0-20261002.153210/GameTranslationInstaller-0.22.0-20261002.153210-release.apk.part01.bin"
+        "url": "https://github.com/hunterlee01123/zy-release/releases/download/assets-20261029/GameTranslationInstaller-0.22.0-20261002.153210-release.apk.part01.bin"
       }
     ],
     "publishedAt": "2026-10-02T07:47:39.464149Z"
