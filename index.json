@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-04T13:33:22.958342Z",
+  "updatedAt": "2026-11-04T13:36:27.292398Z",
   "games": {
     "trickcal": {
       "gameId": "trickcal",
@@ -72,26 +72,26 @@
         }
       ],
       "apk": {
-        "fileName": "LastOrigin-2.6.21.apk",
+        "fileName": "LastOrigin-2.6.24.apk",
         "kind": "apk",
-        "bytes": 141251892,
-        "sha256": "6fef826ebc8f3ec0462f9f3649984840ff48cab15c9344d1df28f5419f5d497c",
+        "bytes": 141157684,
+        "sha256": "a6ef04eb5b2ff7052c2462dea9bbeacd7bfd7f8e9451bdc1934d0afefbe16471",
         "parts": [
           {
-            "fileName": "LastOrigin-2.6.21.apk.part01.bin",
+            "fileName": "LastOrigin-2.6.24.apk.part01.bin",
             "bytes": 99614720,
-            "sha256": "b1f2f17e0e6ef3bf56caca08490623717ccff801860613055e4df91bd501f743",
-            "url": "https://github.com/hunterlee01123/zy-release/releases/download/assets-20261029/LastOrigin-2.6.21.apk.part01.bin"
+            "sha256": "cf4b1f5b2e3fa11ead9d5d5f365759ffad70a07621847bd5dd7fe6e8aa2134a9",
+            "url": "https://github.com/hunterlee01123/zy-release/releases/download/apk-lastorigin-v2.6.24/LastOrigin-2.6.24.apk.part01.bin"
           },
           {
-            "fileName": "LastOrigin-2.6.21.apk.part02.bin",
-            "bytes": 41637172,
-            "sha256": "3ced2d511e8cb729539da57e89cf1c8b6b0c3c860dd53a50f2b7a3163ec1dc43",
-            "url": "https://github.com/hunterlee01123/zy-release/releases/download/assets-20261029/LastOrigin-2.6.21.apk.part02.bin"
+            "fileName": "LastOrigin-2.6.24.apk.part02.bin",
+            "bytes": 41542964,
+            "sha256": "a304299c4c2de54f49c93d18770bb7ce87dc89b9c298ac4885c59cc262b89166",
+            "url": "https://github.com/hunterlee01123/zy-release/releases/download/apk-lastorigin-v2.6.24/LastOrigin-2.6.24.apk.part02.bin"
           }
         ],
-        "versionName": "2.6.21",
-        "publishedAt": "2026-10-29T13:23:14.793077Z"
+        "versionName": "2.6.24",
+        "publishedAt": "2026-11-04T13:36:27.292398Z"
       }
     },
     "mad": {
