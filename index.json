@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-30T05:58:51.590850Z",
+  "updatedAt": "2026-11-04T13:33:22.958342Z",
   "games": {
     "trickcal": {
       "gameId": "trickcal",
@@ -52,23 +52,23 @@
       "gameId": "lastorigin",
       "packageName": "com.smartjoy.LastOrigin_C",
       "displayName": "Last Origin",
-      "versionCode": 429,
-      "patchId": "lastorigin-2.6.21-v429-20261029-211944",
-      "dateDir": "261029",
-      "publishedAt": "2026-10-29T13:21:56.472876Z",
+      "versionCode": 432,
+      "patchId": "lastorigin-2.6.24-v432-20261104-213053",
+      "dateDir": "261104",
+      "publishedAt": "2026-11-04T13:33:22.958342Z",
       "fileCount": 2,
-      "rawBytes": 22188738,
+      "rawBytes": 22218034,
       "zip": {
-        "fileName": "lastorigin-261029-v429.zip",
-        "bytes": 8818616,
-        "sha256": "d3741779f6d2b929a992723c63272e05d6d43ee4a27cdbf3b5649c8243bc91c8"
+        "fileName": "lastorigin-261104-v432.zip",
+        "bytes": 8821758,
+        "sha256": "3e789c6fe591cd01687b628184bcb458ea474eb4f402f21af9371d166840ef3e"
       },
       "parts": [
         {
-          "fileName": "lastorigin-261029-v429.zip",
-          "bytes": 8818616,
-          "sha256": "d3741779f6d2b929a992723c63272e05d6d43ee4a27cdbf3b5649c8243bc91c8",
-          "url": "https://github.com/hunterlee01123/zy-release/releases/download/patches-20261029/lastorigin-261029-v429.zip"
+          "fileName": "lastorigin-261104-v432.zip",
+          "bytes": 8821758,
+          "sha256": "3e789c6fe591cd01687b628184bcb458ea474eb4f402f21af9371d166840ef3e",
+          "url": "https://github.com/hunterlee01123/zy-release/releases/download/lastorigin-261104-v432/lastorigin-261104-v432.zip"
         }
       ],
       "apk": {
