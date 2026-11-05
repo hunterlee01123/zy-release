@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-04T13:36:27.292398Z",
+  "updatedAt": "2026-11-05T02:59:23.978523Z",
   "games": {
     "trickcal": {
       "gameId": "trickcal",
@@ -148,19 +148,19 @@
     }
   },
   "installer": {
-    "versionCode": 1793339807,
-    "versionName": "1.0.1-20261030.135647",
-    "fileName": "GameTranslationInstaller-1.0.1-20261030.135647-release.apk",
-    "bytes": 4072647,
-    "sha256": "e02a9ff66ee88eff3e4b02806a3acf371ad7d48a0d719048370a35a86ea87cc8",
+    "versionCode": 1793847466,
+    "versionName": "1.0.2-20261105.105746",
+    "fileName": "GameTranslationInstaller-1.0.2-20261105.105746-release.apk",
+    "bytes": 4072679,
+    "sha256": "3080102f3548eca548e8f06adcc5601a8bc1d3488407c6f2bb3362b0b1c5c170",
     "parts": [
       {
-        "fileName": "GameTranslationInstaller-1.0.1-20261030.135647-release.apk.part01.bin",
-        "bytes": 4072647,
-        "sha256": "e02a9ff66ee88eff3e4b02806a3acf371ad7d48a0d719048370a35a86ea87cc8",
-        "url": "https://github.com/hunterlee01123/zy-release/releases/download/installer-v1.0.1-20261030.135647/GameTranslationInstaller-1.0.1-20261030.135647-release.apk.part01.bin"
+        "fileName": "GameTranslationInstaller-1.0.2-20261105.105746-release.apk.part01.bin",
+        "bytes": 4072679,
+        "sha256": "3080102f3548eca548e8f06adcc5601a8bc1d3488407c6f2bb3362b0b1c5c170",
+        "url": "https://github.com/hunterlee01123/zy-release/releases/download/installer-v1.0.2-20261105.105746/GameTranslationInstaller-1.0.2-20261105.105746-release.apk.part01.bin"
       }
     ],
-    "publishedAt": "2026-10-30T05:58:51.590850Z"
+    "publishedAt": "2026-11-05T02:59:23.978523Z"
   }
 }
