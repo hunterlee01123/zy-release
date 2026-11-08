@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-05T12:45:20.284810Z",
+  "updatedAt": "2026-11-08T11:36:16.734190Z",
   "games": {
     "trickcal": {
       "gameId": "trickcal",
@@ -124,26 +124,26 @@
         }
       ],
       "apk": {
-        "fileName": "mad-1.8.3.apks",
+        "fileName": "MAD-1.11.6.apks",
         "kind": "apks",
-        "bytes": 145486757,
-        "sha256": "68c8a0344c1e06f62c9e0cac47d0a4b85add9bfd1c995d51d3c601b7e75d4c5e",
+        "bytes": 162360168,
+        "sha256": "b7de0f1144f2b1cd6f5395915e9cd042aa335dbc62f7cc1352b786142d4fa3e7",
         "parts": [
           {
-            "fileName": "mad-1.8.3.apks.part01.bin",
+            "fileName": "MAD-1.11.6.apks.part01.bin",
             "bytes": 99614720,
-            "sha256": "61e68161851e522840693aa2bcd488180275b2e39010dd0615b05db7b1d512fc",
-            "url": "https://gitee.com/yol1/zy/releases/download/apk-mad-v1.8.3/mad-1.8.3.apks.part01.bin"
+            "sha256": "5f24efe618f9472fb1f8d4d64669c4c971304e0695bb0a6d8e65d7dd688a54bc",
+            "url": "https://github.com/hunterlee01123/zy-release/releases/download/apk-mad-v1.11.6/MAD-1.11.6.apks.part01.bin"
           },
           {
-            "fileName": "mad-1.8.3.apks.part02.bin",
-            "bytes": 45872037,
-            "sha256": "010c79468e5c953f9fb9f21465bada20aade10797f6ce6fa60e850005df72dc6",
-            "url": "https://gitee.com/yol1/zy/releases/download/apk-mad-v1.8.3/mad-1.8.3.apks.part02.bin"
+            "fileName": "MAD-1.11.6.apks.part02.bin",
+            "bytes": 62745448,
+            "sha256": "7857d5fc1ac85ba651e216c77e63f1ea7e1608a30c103a5ec6968383642deed9",
+            "url": "https://github.com/hunterlee01123/zy-release/releases/download/apk-mad-v1.11.6/MAD-1.11.6.apks.part02.bin"
           }
         ],
-        "versionName": "1.8.3",
-        "publishedAt": "2026-09-22T15:51:21.338845Z"
+        "versionName": "1.11.6",
+        "publishedAt": "2026-11-08T11:36:16.734190Z"
       }
     }
   },
