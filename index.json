@@ -1,28 +1,28 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-12T08:32:59.137288Z",
+  "updatedAt": "2026-11-14T03:01:20.027952Z",
   "games": {
     "trickcal": {
       "gameId": "trickcal",
       "packageName": "com.epidgames.trickcalrevive",
       "displayName": "Trickcal Revive",
       "versionCode": 10680,
-      "patchId": "trickcal-10680-v10680-20261112-163151",
-      "dateDir": "261112",
-      "publishedAt": "2026-11-12T08:32:59.137288Z",
+      "patchId": "trickcal-10680-v10680-20261114-110009",
+      "dateDir": "261114",
+      "publishedAt": "2026-11-14T03:01:20.027952Z",
       "fileCount": 4,
-      "rawBytes": 28234161,
+      "rawBytes": 28234241,
       "zip": {
-        "fileName": "trickcal-261112-v10680.zip",
-        "bytes": 22328376,
-        "sha256": "98aea76887b90145ad3232061c503bc053acf3211637cf845496cee18151acff"
+        "fileName": "trickcal-261114-v10680.zip",
+        "bytes": 22328408,
+        "sha256": "8458a2209aa732e0aae0878217d48d87b0b4966070bff31202f31ae1465916c9"
       },
       "parts": [
         {
-          "fileName": "trickcal-261112-v10680.zip",
-          "bytes": 22328376,
-          "sha256": "98aea76887b90145ad3232061c503bc053acf3211637cf845496cee18151acff",
-          "url": "https://github.com/hunterlee01123/zy-release/releases/download/trickcal-261112-v10680/trickcal-261112-v10680.zip"
+          "fileName": "trickcal-261114-v10680.zip",
+          "bytes": 22328408,
+          "sha256": "8458a2209aa732e0aae0878217d48d87b0b4966070bff31202f31ae1465916c9",
+          "url": "https://github.com/hunterlee01123/zy-release/releases/download/trickcal-261114-v10680/trickcal-261114-v10680.zip"
         }
       ],
       "apk": {
