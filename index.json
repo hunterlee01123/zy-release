@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-26T08:06:26.698588Z",
+  "updatedAt": "2026-11-26T08:07:30.470109Z",
   "games": {
     "trickcal": {
       "gameId": "trickcal",
@@ -26,26 +26,26 @@
         }
       ],
       "apk": {
-        "fileName": "Trickcal-10685.apks",
+        "fileName": "Trickcal-10691.apks",
         "kind": "apks",
-        "bytes": 149439462,
-        "sha256": "5d81fca74129e8b31586e6882ade2ef947dbb4fe0f83236a76e404b72390c161",
+        "bytes": 157541350,
+        "sha256": "078a587d6c0f85915401d711d7f2ef385f303b3001135ba2112e4d8b5edbcb09",
         "parts": [
           {
-            "fileName": "Trickcal-10685.apks.part01.bin",
+            "fileName": "Trickcal-10691.apks.part01.bin",
             "bytes": 99614720,
-            "sha256": "b8a76bc1d9561bc52352323e536e422a2e15c25238a4f3a2dcfa9cb846b0f809",
-            "url": "https://github.com/hunterlee01123/zy-release/releases/download/apk-trickcal-v10685/Trickcal-10685.apks.part01.bin"
+            "sha256": "ddc9ff6cf2719d954bbe5c23ce448bcf4aa7676fcc587d63f749b32f48b178ca",
+            "url": "https://github.com/hunterlee01123/zy-release/releases/download/apk-trickcal-v10691/Trickcal-10691.apks.part01.bin"
           },
           {
-            "fileName": "Trickcal-10685.apks.part02.bin",
-            "bytes": 49824742,
-            "sha256": "93013652ff593170e5a5e125bba9178b71fe8e5f0ef117fa7b16576764477d45",
-            "url": "https://github.com/hunterlee01123/zy-release/releases/download/apk-trickcal-v10685/Trickcal-10685.apks.part02.bin"
+            "fileName": "Trickcal-10691.apks.part02.bin",
+            "bytes": 57926630,
+            "sha256": "f4c1ca0d3b58da8438094e5f00b71c682ea8a5e5cca106e829c64c80ced22bf7",
+            "url": "https://github.com/hunterlee01123/zy-release/releases/download/apk-trickcal-v10691/Trickcal-10691.apks.part02.bin"
           }
         ],
-        "versionName": "10685",
-        "publishedAt": "2026-11-21T07:52:28.431962Z"
+        "versionName": "10691",
+        "publishedAt": "2026-11-26T08:07:30.470109Z"
       }
     },
     "lastorigin": {
